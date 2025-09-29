@@ -1,0 +1,29 @@
+{
+	"name": "word-switcher",
+	"version": "0.1.0",
+	"description": "Example block scaffolded with Create Block tool.",
+	"author": "The WordPress Contributors",
+	"license": "GPL-2.0-or-later",
+	"main": "build/index.js",
+	"scripts": {
+		"build": "wp-scripts build --experimental-modules",
+		"format": "wp-scripts format",
+		"lint:css": "wp-scripts lint-style",
+		"lint:js": "wp-scripts lint-js",
+		"packages-update": "wp-scripts packages-update",
+		"plugin-zip": "wp-scripts plugin-zip",
+		"start": "wp-scripts start --experimental-modules",
+		"env:start": "wp-env start",
+		"env:start:debug": "wp-env start --xdebug",
+		"env:stop": "wp-env stop",
+		"env:destroy": "wp-env destroy",
+		"env:clean": "wp-env clean all",
+		"env:logs": "wp-env logs",
+		"env:reset": "wp-env destroy && wp-env start",
+		"env:update": "wp-env start --update"
+	},
+	"devDependencies": {
+		"@wordpress/scripts": "^30.15.0",
+		"@wordpress/env": "^10.29.0"
+	}
+}
