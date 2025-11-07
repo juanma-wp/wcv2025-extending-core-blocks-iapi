@@ -1,6 +1,6 @@
 {
 	"$schema": "https://playground.wordpress.net/blueprint-schema.json",
-	"landingPage": "/?p=10",
+	"landingPage": "/?p=12",
 	"login": true,
 	"steps": [
 		{

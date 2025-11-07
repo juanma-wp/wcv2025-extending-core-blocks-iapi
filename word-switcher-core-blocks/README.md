@@ -2,6 +2,11 @@
 
 A WordPress plugin that provides a custom block format for the Block Editor (Gutenberg), allowing users to mark words or phrases separated by commas in paragraphs and headings as "switchable". These marked words will automatically cycle through a list of alternatives on the frontend, creating a dynamic text effect.
 
+## Live Demo
+
+[**Try the live demo**](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/juanma-wp/wcv2025-extending-core-blocks-iapi/refs/heads/main/word-switcher-core-blocks/_playground/blueprint.json) - Experience the interactive blocks in a WordPress Playground environment.
+
+
 ## Features
 
 - **Rich Text Format**: Adds a toolbar button to the block editor for marking text as a "Word Switcher" area.
