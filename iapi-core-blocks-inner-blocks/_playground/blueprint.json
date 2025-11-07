@@ -7,9 +7,9 @@
 			"step": "installPlugin",
 			"pluginData": {
 				"resource": "git:directory",
-				"url": "https://github.com/Automattic/wpvip-learn-enterprise-block-editor",
+				"url": "https://github.com/juanma-wp/wcv2025-extending-core-blocks-iapi",
 				"ref": "HEAD",
-				"path": "examples/iapi-core-blocks-inner-blocks"
+				"path": "iapi-core-blocks-inner-blocks"
 			},
 			"options": {
 				"activate": true
@@ -22,7 +22,7 @@
 			"step": "importWxr",
 			"file": {
 				"resource": "url",
-				"url": "https://raw.githubusercontent.com/Automattic/wpvip-learn-enterprise-block-editor/trunk/examples/iapi-core-blocks-inner-blocks/_playground/export.xml"
+				"url": "https://raw.githubusercontent.com/juanma-wp/wcv2025-extending-core-blocks-iapi/main/iapi-core-blocks-inner-blocks/_playground/export.xml"
 			}
 		}
 	]
