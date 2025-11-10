@@ -3,7 +3,7 @@
 
 A WordPress plugin that extends core button and video blocks with interactive functionality using the WordPress Interactivity API.
 
-<img width="9341" height="5939" alt="image" src="https://github.com/user-attachments/assets/8e70eb3e-3b2d-4a7a-b60b-9099c6294bd0" />
+<img width="9937" height="5939" alt="image" src="https://github.com/user-attachments/assets/a9f48337-853f-43b6-b8c3-ac8a095a7753" />
 
 _[See excalidraw diagram](https://excalidraw.com/#json=aXJsuK0WiHkWRCENrsRE0,UQW4RAf7qWGadcZMGXMnTA)_
 
