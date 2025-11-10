@@ -3,6 +3,10 @@
 
 A WordPress plugin that extends core button and video blocks with interactive functionality using the WordPress Interactivity API.
 
+<img width="9341" height="5939" alt="image" src="https://github.com/user-attachments/assets/8e70eb3e-3b2d-4a7a-b60b-9099c6294bd0" />
+
+_[See excalidraw diagram](https://excalidraw.com/#json=aXJsuK0WiHkWRCENrsRE0,UQW4RAf7qWGadcZMGXMnTA)_
+
 ## Live Demo
 
 [**Try the live demo**](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/juanma-wp/wcv2025-extending-core-blocks-iapi/refs/heads/main/iapi-core-blocks-inner-blocks/_playground/blueprint.json) - Experience the interactive blocks in a WordPress Playground environment.
